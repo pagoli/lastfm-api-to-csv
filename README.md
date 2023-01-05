@@ -39,7 +39,7 @@ http://localhost:5000/artist/:artistName
 
 ## System Requirements
 
-Please make sure to use node version **19.0.0 or higher** [-> Link](https://nodejs.org/en/download/)
+Please make sure to use node version **18.12.1 or higher** [-> Link](https://nodejs.org/en/download/)
 as well as npm version **8.19.2** .
 
-#### Feel free to use this app for your purpose.
+#### Feel free to use this app for your own purpose.
