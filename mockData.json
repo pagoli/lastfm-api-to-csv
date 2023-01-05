@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "mockist1",
+    "mbid": "bbfa1e12-8b61-4ed8-1111-52d2298f41a2",
+    "url": "https://www.last.fm/music/mockist1",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist2",
+    "mbid": "bbfa1e12-8b61-4ed8-2222-52d2298f41a2",
+    "url": "https://www.last.fm/music/mockist2",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist3",
+    "mbid": "bbfa1e12-8b61-4ed8-3333-52d2298f41a2",
+    "url": "https://www.last.fm/music/mockist3",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist4",
+    "mbid": "8fa4df42-e88d-4541-4444-591aca1bd3a5",
+    "url": "https://www.last.fm/music/mockist4",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist5",
+    "mbid": "79485ff5-5ae0-4ff4-5555-0eb898cfdddf",
+    "url": "https://www.last.fm/music/mockist5",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist6",
+    "mbid": "2cddc7e8-ff7e-44d8-6666-4409727c2383",
+    "url": "https://www.last.fm/music/mockist6",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist7",
+    "mbid": "2cddc7e8-ff7e-44d8-7777-4409727c2383",
+    "url": "https://www.last.fm/music/mockist7",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist8",
+    "mbid": "2cddc7e8-ff7e-44d8-8888-4409727c2383",
+    "url": "https://www.last.fm/music/mockist8",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist9",
+    "mbid": "2cddc7e8-ff7e-44d8-9999-4409727c2383",
+    "url": "https://www.last.fm/music/mockist9",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "artist": "mockist10",
+    "mbid": "2cddc7e8-ff7e-44d8-1010-4409727c2383",
+    "url": "https://www.last.fm/music/mockist10",
+    "image_small": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+    "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  }
+]
