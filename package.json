@@ -1,5 +1,5 @@
 {
-  "name": "codingchallenge",
+  "name": "lastfm_api_node_app",
   "version": "1.0.0",
   "type": "module",
   "description": "rest api to find an artist via lastfm api",
